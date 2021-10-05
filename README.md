@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - In this profile you will find some projects related to scientific topics or just hobbies ⚡. 
-- I'm a Physics Engineer interested in Control Theory, Photonics and Quantum Computing 🔭. 
+- I'm a Physics Engineer interested in Automation, Control Theory, Photonics and Quantum Computing 🔭. 
 - I'm passionate about Math and programming ✨. 
 
 <!--
