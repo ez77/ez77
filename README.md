@@ -3,7 +3,10 @@
 - In this profile you will find some projects related to scientific topics or just hobbies ⚡. 
 - I'm a Physics Engineer interested in Automation, Statistical Control, Data Science, ML, Photonics/Optoelectronics and Quantum Computing 🔭. 
 - I'm passionate about Math and programming ✨. 
-
+```
+ConvertUnits[Quantity[15/16, Unit[PureUnities]], 
+ Quantity[None, Unit[Percent]]]
+```
 <!--
 **ez77/ez77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
